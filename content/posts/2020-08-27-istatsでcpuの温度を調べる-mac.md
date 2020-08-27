@@ -24,8 +24,8 @@ meta:
 
 `% istats`
 
-![](https://ucarecdn.com/b09d9f70-399e-4315-be32-d573dec44c93/)
+![](https://ucarecdn.com/fa2a1eae-418b-4884-a5e7-d05fe112b77d/)
 
-
+``
 
 CPU 温度の他にファンスピードやバッテリー温度の確認も出来るよう。。
