@@ -5,7 +5,7 @@ title: iStatsでCPUの温度を調べる(Mac)
 status: Published
 date: '2020-08-27'
 featuredImage: 'https://live.staticflickr.com/65535/50274662346_ee090cc3c8_w.jpg'
-excerpt: 色々調べてみると一般的にCPUの適正温度は40~80℃らしい。WinからMacに乗り換えてやたら熱くなるので 「iStats」を導入しました。
+excerpt: WinからMacに乗り換えてやたら熱くなるので 「iStats」を導入しました。
 categories:
   - category: Note
 aliases:
