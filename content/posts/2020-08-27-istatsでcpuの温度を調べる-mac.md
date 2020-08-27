@@ -10,13 +10,9 @@ categories:
 meta:
   title: istats zsh gem
 ---
-> ### MacBookのCPU温度を調べる方法
-
-
+> ### MacBookのCPU温度を調べる
 
 色々調べてみると一般的にCPUの適正温度は40~80℃らしい。WinからMacに乗り換えてやたら熱くなるので 「iStats」を導入しました。
-
-
 
 > iStatsインストール
 
