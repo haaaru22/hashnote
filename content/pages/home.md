@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: HashNote
 featuredImage: 'https://live.staticflickr.com/65535/50273354586_a7c72c99c7_b.jpg'
-subtitle: ' Welcome to my Blog!! Gatsby and NetlifyCMC project.'
+subtitle: ' Welcome to HashNote!! Gatsby & NetlifyCMS project.'
 meta:
   description: This is a meta description.
   title: hash note gatsby netlifycss

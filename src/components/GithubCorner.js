@@ -1,10 +1,10 @@
 import React from 'react'
 import './GithubCorner.css'
 
-export default ({ url, style, className = '', color = '#151513' }) => (
+export default ({ style, className = '', color = '#151513' }) => (
   <a
     className={`GithubCorner ${className}`}
-    href={url}
+    href="https://github.com/haaaru22"
     target="_blank"
     rel="noopener noreferrer"
     aria-label="View source on Github"
