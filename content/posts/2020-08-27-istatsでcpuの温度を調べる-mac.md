@@ -1,5 +1,6 @@
 ---
 template: SinglePost
+linktitle: istats
 title: iStatsでCPUの温度を調べる(Mac)
 status: Published
 date: '2020-08-27'
