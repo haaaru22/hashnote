@@ -1,7 +1,8 @@
 ---
 template: BlogIndex
-title: Updates
+title: Gatsby.js
 subtitle: ''
-featuredImage: 'https://ucarecdn.com/83a3c73d-f234-4086-9fad-cee3a9626230/'
+featuredImage: >-
+  https://ucarecdn.com/83d453e2-39c2-44b9-881b-2485c860f20c/-/crop/1280x669/0,161/-/preview/
 ---
 
