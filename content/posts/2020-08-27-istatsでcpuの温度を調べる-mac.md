@@ -8,7 +8,7 @@ excerpt: 色々調べてみると一般的にCPUの適正温度は40~80℃らし
 categories:
   - category: Note
 meta:
-  title: iStatsでCPUの温度を調べる(Mac)
+  title: istats
 ---
 
 > ### MacBook の CPU 温度を調べる
