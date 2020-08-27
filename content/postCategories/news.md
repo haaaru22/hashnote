@@ -1,8 +1,10 @@
 ---
 template: BlogIndex
-title: News
-subtitle: ''
+title: Note
+subtitle: Linux Gatsby Flutter Node
 featuredImage: >-
-  https://ucarecdn.com/db0b1431-8739-426f-970d-8a80eacf02ef/-/preview/-/rotate/270/
+  https://ucarecdn.com/ba8dc5ee-2d85-4417-8ee5-c5ce95584a29/-/crop/1280x692/0,105/-/preview/
+meta:
+  title: note gatsby
 ---
 
