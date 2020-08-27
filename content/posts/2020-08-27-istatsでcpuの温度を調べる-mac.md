@@ -3,18 +3,19 @@ template: SinglePost
 title: iStatsでCPUの温度を調べる(Mac)
 status: Published
 date: '2020-08-27'
-featuredImage: 'https://ucarecdn.com/19658f89-06fc-4202-a11f-abea335297f1/-/preview/'
+featuredImage: 'https://live.staticflickr.com/65535/50274662346_ee090cc3c8_w.jpg'
 excerpt: 色々調べてみると一般的にCPUの適正温度は40~80℃らしい。WinからMacに乗り換えてやたら熱くなるので 「iStats」を導入しました。
 categories:
   - category: Note
 meta:
-  title: istats zsh gem
+  title: iStatsでCPUの温度を調べる(Mac)
 ---
-> ### MacBookのCPU温度を調べる
 
-色々調べてみると一般的にCPUの適正温度は40~80℃らしい。WinからMacに乗り換えてやたら熱くなるので 「iStats」を導入しました。
+> ### MacBook の CPU 温度を調べる
 
-> iStatsインストール
+色々調べてみると一般的に CPU の適正温度は 40~80℃ らしい。Win から Mac に乗り換えてやたら熱くなるので 「iStats」を導入しました。
+
+> iStats インストール
 
 `% sudo gem install iStats -n /usr/local/bin`
 
@@ -24,4 +25,4 @@ meta:
 
 ![](https://ucarecdn.com/588c5545-fd9f-41d0-9a05-17b4e0e9a4bf/)
 
-CPU温度の他にファンスピードやバッテリー温度の確認も出来るよう。。
+CPU 温度の他にファンスピードやバッテリー温度の確認も出来るよう。。
