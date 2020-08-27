@@ -24,7 +24,7 @@ meta:
 
 `% istats`
 
-![](https://ucarecdn.com/fa2a1eae-418b-4884-a5e7-d05fe112b77d/)
+![](https://ucarecdn.com/4b89a544-569c-4d38-bdca-e9bb530b7c45/)
 
 ``
 
