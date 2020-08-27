@@ -8,6 +8,8 @@ featuredImage: 'https://live.staticflickr.com/65535/50274662346_ee090cc3c8_w.jpg
 excerpt: 色々調べてみると一般的にCPUの適正温度は40~80℃らしい。WinからMacに乗り換えてやたら熱くなるので 「iStats」を導入しました。
 categories:
   - category: Note
+aliases:
+  - /posts/istats/
 meta:
   title: istats
 ---
