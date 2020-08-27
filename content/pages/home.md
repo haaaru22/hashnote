@@ -2,11 +2,11 @@
 template: HomePage
 slug: ''
 title: HashNote
-featuredImage: 'https://cdn.pixabay.com/photo/2020/04/04/05/25/minimal-5000883_960_720.jpg'
+featuredImage: 'https://live.staticflickr.com/65535/50273354586_a7c72c99c7_b.jpg'
 subtitle: ' Welcome to my Blog!! Gatsby and NetlifyCMC project.'
 meta:
   description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  title: hash note gatsby netlifycss
 ---
 
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
