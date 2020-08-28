@@ -1,6 +1,6 @@
 ---
 template: BlogIndex
-title: node.js
+title: Node.js
 subtitle: node.js npm yarn
 featuredImage: 'https://live.staticflickr.com/65535/50278323287_f8cf59c925_z.jpg'
 meta:
@@ -9,3 +9,4 @@ meta:
   noindex: false
   title: node
 ---
+
