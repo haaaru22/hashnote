@@ -3,7 +3,7 @@ template: SinglePost
 title: NodeVersionControl nvm
 status: Published
 date: '2020-08-28'
-featuredImage: 'https://ucarecdn.com/4aa5e33f-fa3d-41c9-9c59-5821ea861a06/'
+featuredImage: 'https://ucarecdn.com/33341758-6492-4e61-92fc-3469679cc6f2/'
 excerpt: nvm version control
 categories:
   - category: Note
