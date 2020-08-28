@@ -9,10 +9,9 @@ categories:
   - category: Note
 meta:
   canonicalLink: ''
-  description: iStatsコマンドでCPU温度を調べる
+  description: WinからMacに乗り換えてやたら熱くなるので 「iStats」を導入しました。
   noindex: false
   title: iStatsコマンドでCPU温度を調べる
-  excerpt: WinからMacに乗り換えてやたら熱くなるので 「iStats」を導入しました。
 ---
 
 # iStats で CPU の温度を調べる
