@@ -1,8 +1,7 @@
 siteTitle: Hash Note
 siteUrl: 'https://hashnote.dev'
 siteDescription: >-
-  A starter project for creating lightning-fast websites with Gatsby v2 Netlify
-  CMS v2 and Uploadcare media library.
+  Hash Note Blog Posts.
 socialMediaCard:
-  image: 'https://live.staticflickr.com/65535/50274631476_9bd2735313_z.jpg'
+  image: 'https://live.staticflickr.com/65535/50273866552_ca9752c6ac_w.jpg'
 googleTrackingId: 'UA-176575321-1'
