@@ -8,15 +8,15 @@ excerpt: WinからMacに乗り換えてやたら熱くなるので 「iStats」�
 categories:
   - category: Note
 meta:
+  canonicalLink: 'https://hashnote.dev/'
+  description: iStatsコマンドでCPU温度を調べる
   title: istats
 ---
 # iStatsでCPUの温度を調べる
 
 > #### MacBook の CPU 温度
 
-色々調べてみると一般的に CPU の適正温度は 40~80℃ らしい。Win から Mac に乗り換えてやたら熱くなるので 「iStats」を導入しました。
-
-
+色々調べてみると一般的に CPU の適正温度は 40~80℃ らしい。Win から Mac に乗り換えてまず作業中のmacの熱さが気になったのでコマンド一つでCPU温度がわかる「iStats」を導入しました。
 
 > #### iStats インストール
 
@@ -26,16 +26,14 @@ meta:
 
 `% istats`
 
-![](https://ucarecdn.com/3fe7ff96-37d2-4b5a-9f21-510bd9aaef25/)
+![](https://ucarecdn.com/71ee1c7e-0f7d-4f5f-b2ce-67fa17fe1560/)
 
 CPU 温度の他にファンスピードやバッテリー温度の確認も出来るよう。。
 
-
-
 > #### 温度対策
 
-![](https://ucarecdn.com/e479e07f-7f7e-4ea0-ba6e-957b3f5db696/-/preview/-/enhance/25/)
+![](https://ucarecdn.com/ef23bd54-2b43-45e1-80bb-d0bfb4e5fad8/)
 
-以前はPC用のクーラーを使っていましたが場所もとるのでUSB扇風機を代用してます。体感としてはパフォーマンス変わらずけっこうアリだと思っています。
+以前はPC用のクーラーを使っていましたが場所もとるのでUSB扇風機で代用してます。体感としてはパフォーマンス変わらずけっこうアリだと思っています。
 
-![](https://ucarecdn.com/9e5110cd-1917-4dde-8ff3-281529a77d10/)
+![](https://ucarecdn.com/9185715b-6845-4774-a2d7-d1488a95b69a/)
