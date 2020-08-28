@@ -8,8 +8,9 @@ excerpt: WinからMacに乗り換えてやたら熱くなるので 「iStats」�
 categories:
   - category: Note
 meta:
-  canonicalLink: 'https://hashnote.dev/'
+  canonicalLink: ''
   description: iStatsコマンドでCPU温度を調べる
+  noindex: false
   title: istats
 ---
 # iStatsでCPUの温度を調べる
