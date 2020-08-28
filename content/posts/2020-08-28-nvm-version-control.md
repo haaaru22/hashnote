@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: nvm version control
+title: NodeVersionControl nvm
 status: Published
 date: '2020-08-28'
 featuredImage: 'https://ucarecdn.com/4aa5e33f-fa3d-41c9-9c59-5821ea861a06/'
@@ -22,6 +22,6 @@ node.jsのバージョン管理(nvm)メモ
 Gatsby.jsのテンプレートをGitHubでCloneして
 READMEの通り`yarn or npm i`した時にNode.jsのバージョンによるエラーでハマったのでQiitaにメモとして残しました。
 
-Nodeのバージョンinstallや切替の管理がかなり楽。
+Node.jsの歴代LTSのinstallや切替の管理がかなり楽。
 
 ## [Qiita](https://qiita.com/haaaru22/items/fc946a299a60beea0003)
