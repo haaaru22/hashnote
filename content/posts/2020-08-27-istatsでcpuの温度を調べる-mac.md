@@ -11,7 +11,7 @@ meta:
   canonicalLink: ''
   description: iStatsコマンドでCPU温度を調べる
   noindex: false
-  title: istats
+  title: iStatsコマンドでCPU温度を調べる
 ---
 # iStatsでCPUの温度を調べる
 
