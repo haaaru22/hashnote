@@ -8,7 +8,7 @@ featuredImage: >-
 excerpt: nvm version control
 categories:
   - category: Note
-  - category: node.js
+  - category: Node.js
 meta:
   description: nvm version control
   title: nvm version control
