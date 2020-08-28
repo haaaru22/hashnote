@@ -4,13 +4,13 @@ title: NodeVersionControl nvm
 status: Published
 date: '2020-08-28'
 featuredImage: 'https://live.staticflickr.com/65535/50278590697_cd9df1f6da_w.jpg'
-excerpt: nvm version control
+excerpt: NodeVersionControl nvm
 categories:
   - category: Note
   - category: Node.js
 meta:
-  description: nvm version control
-  title: nvm version control
+  description: nvmでNodeVersionControl
+  title: NodeVersionControl nvm
 ---
 
 node.js のバージョン管理(nvm)メモ
