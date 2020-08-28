@@ -6,6 +6,9 @@ date: '2020-08-28'
 featuredImage: >-
   https://ucarecdn.com/87d4a0a7-f673-4030-b8b0-20db55fe4ccf/-/crop/272x172/22,0/-/preview/
 excerpt: nvm version control
+categories:
+  - category: Note
+  - category: node.js
 meta:
   description: nvm version control
   title: nvm version control
