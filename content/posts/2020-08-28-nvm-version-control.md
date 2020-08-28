@@ -23,6 +23,6 @@ node.jsのバージョン管理(nvm)メモ
 Gatsby.jsのテンプレートをGitHubでCloneして
 READMEの通り`yarn or npm i`した時にNode.jsのバージョンによるエラーでハマったのでQiitaにメモとして残しました。
 
-nvmを使うことでNodeのバージョンinstallやバージョン切替の管理がかなり楽になりました。
+Nodeのバージョンinstallや切替の管理がかなり楽。
 
 ## [Qiita](https://qiita.com/haaaru22/items/fc946a299a60beea0003)
