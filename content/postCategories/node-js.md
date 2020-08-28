@@ -2,11 +2,10 @@
 template: BlogIndex
 title: node.js
 subtitle: node.js npm yarn
-featuredImage: 'https://ucarecdn.com/1f619cca-b783-437b-9185-7cd33b5f812e/'
+featuredImage: 'https://live.staticflickr.com/65535/50278323287_f8cf59c925_z.jpg'
 meta:
   canonicalLink: 'https://nodejs.org/ja/'
   description: node.js
   noindex: false
   title: node
 ---
-
