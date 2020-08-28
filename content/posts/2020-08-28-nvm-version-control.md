@@ -23,6 +23,6 @@ node.js のバージョン管理(nvm)メモ
 Gatsby.js のテンプレートを GitHub で Clone して
 README の通り`yarn or npm i`した時に Node.js のバージョンによるエラーでハマったので Qiita にメモとして残しました。
 
-Node.js の歴代 LTS の install や切替の管理がかなり楽。
+Node.js の歴代 LTS の install や切替管理がかなり楽。
 
 ## [Qiita](https://qiita.com/haaaru22/items/fc946a299a60beea0003)
