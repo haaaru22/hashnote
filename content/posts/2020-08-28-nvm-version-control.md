@@ -15,7 +15,7 @@ meta:
 ---
 node.jsのバージョン管理(nvm)メモ
 
-> 動作環境
+> ### 動作環境
 
 * macOS Catalina 10.15.6
 * shell zsh
