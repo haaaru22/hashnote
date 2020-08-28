@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: NodeVersionControl nvm
+title: Nodejs Version Control | nvm
 status: Published
 date: '2020-08-28'
 featuredImage: 'https://live.staticflickr.com/65535/50278590697_cd9df1f6da_w.jpg'
