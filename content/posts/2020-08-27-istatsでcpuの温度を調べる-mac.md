@@ -26,14 +26,14 @@ meta:
 
 `% istats`
 
-![](https://ucarecdn.com/71ee1c7e-0f7d-4f5f-b2ce-67fa17fe1560/)
+![](https://ucarecdn.com/0aa03f83-b1a2-4653-a453-df4ca03f2f99/)
 
 CPU 温度の他にファンスピードやバッテリー温度の確認も出来るよう。。
 
 > #### 温度対策
 
-![](https://ucarecdn.com/ef23bd54-2b43-45e1-80bb-d0bfb4e5fad8/)
+![](https://ucarecdn.com/94cfae44-1aca-44e4-a865-1149d495bc21/)
 
 以前はPC用のクーラーを使っていましたが場所もとるのでUSB扇風機で代用してます。体感としてはパフォーマンス変わらずけっこうアリだと思っています。
 
-![](https://ucarecdn.com/9185715b-6845-4774-a2d7-d1488a95b69a/)
+![](https://ucarecdn.com/c080ac8b-60eb-453c-af72-adae4b36ebe0/)
